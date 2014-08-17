@@ -96,7 +96,7 @@
                 <p>We recommend taking pesos from ATMs to use during your trip with your American bank card as the rates are generally better than trying to exchange US dollars or travelers' checks. There are ATMs on Isla at the bank, 7-11, and the Express grocery store. The bank and 7-11 are directly across the street from the dock when you arrive.
                 <p>You can also use the ATM inside the convenience store at Puerto Juerez in Cancun before you board the ferry to Isla.
             </div>
-            <div class="col-md-4"><a href="https://www.flickr.com/photos/speakinglatino/10629092883" title="Mexico: Dinero, Peso, Moneda by SpeakingLatino.com, on Flickr"><img class="img-thumbnail img-responsive" src="https://farm4.staticflickr.com/3668/10629092883_7da6c4c6e4_b.jpg" width="1024" height="765" alt="Mexico: Dinero, Peso, Moneda"></a></div>
+            <div class="col-md-4"><a href="https://www.flickr.com/photos/cawood/2789831815" title="Mexican Pesos by Richard Cawood, on Flickr"><img class="img-thumbnail img-responsive" src="https://farm4.staticflickr.com/3188/2789831815_3b64f28f69_z.jpg?zz=1" width="640" height="484" alt="Mexican Pesos"></a></div>
         </div>
         <div class="row">
             <div class="col-md-12">
