@@ -98,9 +98,7 @@
                     <p>Attire: The ceremony, dinner and dancing will all take place on the beach, so casual beach wear, sandals and bare feet are encouraged. Sunglasses and hats are welcome as well. Dress comfortably for a beach party.</p>
 
                     <h3><span class="glyphicon glyphicon-calendar"></span> Tuesday, May 26, 2015</h3>
-                    <h4>Whale shark snorkeling trip (optional)</h4>
-
-                    <div style="margin-bottom: 15px;"><img class="img-thumbnail img-responsive" src="/images/exmouth-wa-whale-shark-swimming.jpg" alt="whale sharks"></div>
+                    <h4>Snorkeling trip (optional)</h4>
 
                 </div>
             </div>
@@ -159,7 +157,7 @@
 
                     <h4>Must be booked by February 22, 2015!</h4>
 
-                    <p>All 20 rooms of this intimate Mexican beach hotel have been reserved for our wedding guests to book for 3 nights (May 23, 24 & 26) as part of the Bert / Iris Group.  Additional nights may be booked as available.  This hotel is located on a gorgeous rocky half moon beach with a lovely pool overlooking the beach. It feels secluded, yet is just a short walk from the heart of town and North Beach, Isla Mujeres’ most beautiful beach. All the rooms have a/c, safety deposit boxes, mini fridges and ocean-view terraces - the perfect spot to catch the sunrise. The rooms aren't super fancy, but they all have ocean views which really make this hotel special.</p>
+                    <p>All 20 rooms of this intimate Mexican beach hotel have been reserved for our wedding guests to book for 3 nights (May 23, 24 & 25) as part of the Bert / Iris Group.  Additional nights may be booked as available.  This hotel is located on a gorgeous rocky half moon beach with a lovely pool overlooking the beach. It feels secluded, yet is just a short walk from the heart of town and North Beach, Isla Mujeres’ most beautiful beach. All the rooms have a/c, safety deposit boxes, mini fridges and ocean-view terraces - the perfect spot to catch the sunrise. The rooms aren't super fancy, but they all have ocean views which really make this hotel special.</p>
 
                     <div style="margin-bottom: 15px;"><img class="img-rounded img-responsive" src="/images/IMG_5929.jpg" alt="beach"></div>
 
