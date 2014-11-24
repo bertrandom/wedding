@@ -74,17 +74,21 @@
 
                 <div style="margin-bottom: 60px;">
 
-                    <h3><span class="glyphicon glyphicon-calendar"></span> Saturday, May 23, 2015</h3>
-                    <h4>Evening Welcome Cocktail Party</h4>
-                    
-                    <p>Location: TBD</p>
-                    
-                    <h3><span class="glyphicon glyphicon-calendar"></span> Sunday, May 24, 2015</h3>
-                    <h4>Fun Group Activity (optional)</h4>                    
+                    <h3><span class="glyphicon glyphicon-calendar"></span> Saturday, May 23, 2015, 8:30pm - 10:30pm</h3>
+                    <h4>Welcome Drinks</h4>
 
-                    <p>We'll be arranging an optional outdoor activity that you're welcome to join us in if you'd like. Details coming soon.</p>
+                    <p>Location: <a href="http://www.tripadvisor.com/Restaurant_Review-g150810-d2489472-Reviews-Fenix_Lounge_Restaurant_Beach_Club-Isla_Mujeres_Yucatan_Peninsula.html">Fenix Beach Club</a></p>
 
-                    <h3><span class="glyphicon glyphicon-calendar"></span> Monday, May 25, 2015</h3>
+                    <p>Settle into the island with a beer, margarita, or rum punch!</p>
+
+                    <h3><span class="glyphicon glyphicon-calendar"></span> Sunday, May 24, 2015, 11am - 4:00pm</h3>
+                    <h4>Golf Cart Scavenger Hunt</h4>                    
+
+                    <p>Meeting location: <a href="http://www.tripadvisor.com/Restaurant_Review-g150810-d1182908-Reviews-JAX_Bar_Grill-Isla_Mujeres_Yucatan_Peninsula.html">Jax Restaurant</a></p>
+
+                    <p>Join us for an adventurous scavenger hunt around the island on golf carts. At the start of the hunt you will receive a list of items to find, all cleverly hidden around Isla Mujeres. Your task is to track these down… and the winner at the end of the day will get all the items found during the hunt. A fun team activity and a great way to see the island on route! Each team will have a maximum of four people per golf cart.</p>
+
+                    <h3><span class="glyphicon glyphicon-calendar"></span> Monday, May 25, 2015, 6pm - 11:45pm</h3>
                     <h4>Sunset Wedding Ceremony & Reception</h4>
 
                     <p>Location: <strong>Mirada Beach Club</strong>
@@ -93,12 +97,23 @@
 
                     <div style="margin-bottom: 15px;"><img class="img-rounded img-responsive" src="/images/IMG_5902.jpg" alt="beach"></div>
                     
-                    <p>Getting there: TBD</p>
+                    <p>Getting there: You'll want to catch a taxi from your hotel at 5:30pm.</p>
 
                     <p>Attire: The ceremony, dinner and dancing will all take place on the beach, so casual beach wear, sandals and bare feet are encouraged. Sunglasses and hats are welcome as well. Dress comfortably for a beach party.</p>
 
-                    <h3><span class="glyphicon glyphicon-calendar"></span> Tuesday, May 26, 2015</h3>
-                    <h4>Snorkeling trip (optional)</h4>
+                    <h3><span class="glyphicon glyphicon-calendar"></span> Tuesday, May 26, 2015, 11am - 3:30pm</h3>
+                    <h4>Post-Wedding Snorkeling Adventure</h4>
+
+                    <p>Meeting location: <a href="http://www.islamujerestrips.com/location/">Isla Mujeres Trips</a></p>
+
+                    <p>Join us on our first underwater adventure as newlyweds with a mid-day snorkeling trip to El Farito lighthouse reef and MUSA underwater museum, followed by a late lunch on the beach. Bring your own drinks for the boat ride (water is encouraged). This trip costs $32/ per person and requires at $12 deposit to reserve your spot. The balance of $20 can be paid the day of in US dollars (recommended), pesos or by credit card (with a fee) at their office at 11am on the day of the trip. Read more about this trip here.</p>
+
+                    <p>Bring</p>
+                    <ul>
+                        <li>Water &amp; any other drinks you want on the boat, towel, biodegradable sunblock and extra cash to buy drinks at lunch or in case you want to go to the optional turtle farm ($3).</li>
+                    </ul>
+
+                    <p>If you're interested in joining us on this trip, please let us know when you <a href="/rsvp">RSVP</a> and we'll send you the details on how to reserve a spot. 
 
                 </div>
             </div>
@@ -115,15 +130,16 @@
                         <h3><img src="/images/plane.png" style="margin-right:5px"> Fly in to Cancun International Airport (CUN)</h3>
                         
                         <ul>
-                            <li>Since you’ll be traveling internationally, you’ll need a valid passport. If you don’t have one you can apply for one <a href="http://travel.state.gov/content/passports/english/passports/apply.html">here</a>.</li>
-                            <li>Book a flight that arrives in Cancun no later than 9:00pm so you’ll have time to travel to Isla Mujeres after you land, otherwise you’ll have to spend the first night in Cancun. Also, book a flight that departs from Cancun no earlier than 9:00am so you’ll have time to travel from Isla Mujeres to the Cancun airport on the same morning.</li>
-                            <li>On the plane the flight attendant will give you two cards to fill out, a Mexican Tourist Card (FTM) and the Customs form. Present the tourist card at immigration with your passport and they will stamp your passport and return half of the form, keep this as you’ll need it when you exit the country. If you lose it, they may charge you a fine. Beware, the immigration process can be long. Then pick up any checked luggage and head to customs. At customs, you will press a button, if it is green, your bags won’t be searched, if it’s red, they will, then you present them with your customs card.</li>
+                            <li>Since you'll be traveling internationally, you'll need a valid passport. If you don't have one you can apply for one <a href="http://travel.state.gov/content/passports/english/passports/apply.html">here</a>.</li>
+                            <li><strong>Arrival time</strong>: Book a flight that arrives in Cancun no later than 9:00pm so you'll have time to travel to Isla Mujeres after you land, otherwise you'll have to spend the first night in Cancun. If you plan to arrive on Saturday, May 23 and want to join us for welcome drinks at 8:30pm, plan to arrive in Cancun no later than 6:00pm (5:00pm or earlier is better).</li>
+                            <li><strong>Departure time</strong>: Also, book a flight that departs from Cancun no earlier than 9:00am so you'll have time to travel from Isla Mujeres to the Cancun airport on the same morning.</li>
+                            <li>On the plane the flight attendant will give you two cards to fill out, a Mexican Tourist Card (FTM) and the Customs form. Present the tourist card at immigration with your passport and they will stamp your passport and return half of the form, keep this as you'll need it when you exit the country. If you lose it, they may charge you a fine. Beware, the immigration process can be long. Then pick up any checked luggage and head to customs. At customs, you will press a button, if it is green, your bags won't be searched, if it's red, they will, then you present them with your customs card.</li>
                         </ul>
 
                         <h3><img src="/images/shuttle.png" style="margin-right:5px"> Take a Shuttle to Puerto Juarez, around 20 minutes depending on traffic</h3>
                         
                         <ul>
-                            <li>We recommend you prearrange a shuttle before you arrive in Cancun. Stay tuned, we’ll add shuttle options as the time gets closer to the wedding date.</li>
+                            <li>We recommend you prearrange a shuttle before you arrive in Cancun. Stay tuned, we'll add shuttle options as the time gets closer to the wedding date.</li>
                         </ul>
 
                         <h3><img src="/images/ferry.png" style="margin-right:5px"> Ride the Ultramar ferry from Puerto Juarez, Cancun to Isla Mujeres, around 15 minutes</h3>
@@ -131,7 +147,7 @@
                         <ul>
                             <li>We recommend using the atm at the XOXO minimarket at the ferry station to take out pesos at the before purchasing tickets, if you want to pay in pesos. Otherwise they accept US dollars as well. Then go inside the ferry office and purchase a ticket on the Ultramar ferry to Isla Mujeres (~ $15 roundtrip).</li>
                             <li>Ferries run every 30 minutes 5:30am – 8:30pm and hourly on the half hour after that until 11:30pm. No ferries run after 11:30pm.</li>
-                            <li>Bellman may offer to help you load your luggage on the ferry, if you use their assistance, it’s customary to tip them $1/luggage.</li>
+                            <li>Bellman may offer to help you load your luggage on the ferry, if you use their assistance, it's customary to tip them $1/luggage.</li>
                         </ul>
 
                         <h3><img src="/images/taxi.png" style="margin-right:5px"> Take a taxi to your hotel, around 5 minutes</h3>
@@ -157,7 +173,7 @@
 
                     <h4>Must be booked by February 22, 2015!</h4>
 
-                    <p>All 20 rooms of this intimate Mexican beach hotel have been reserved for our wedding guests to book for 3 nights (May 23, 24 & 25) as part of the Bert / Iris Group.  Additional nights may be booked as available.  This hotel is located on a gorgeous rocky half moon beach with a lovely pool overlooking the beach. It feels secluded, yet is just a short walk from the heart of town and North Beach, Isla Mujeres’ most beautiful beach. All the rooms have a/c, safety deposit boxes, mini fridges and ocean-view terraces - the perfect spot to catch the sunrise. The rooms aren't super fancy, but they all have ocean views which really make this hotel special.</p>
+                    <p>All 20 rooms of this intimate Mexican beach hotel have been reserved for our wedding guests to book for 3 nights (May 23, 24 & 25) as part of the Bert / Iris Group.  Additional nights may be booked as available.  This hotel is located on a gorgeous rocky half moon beach with a lovely pool overlooking the beach. It feels secluded, yet is just a short walk from the heart of town and North Beach, Isla Mujeres' most beautiful beach. All the rooms have a/c, safety deposit boxes, mini fridges and ocean-view terraces - the perfect spot to catch the sunrise. The rooms aren't super fancy, but they all have ocean views which really make this hotel special.</p>
 
                     <div style="margin-bottom: 15px;"><img class="img-rounded img-responsive" src="/images/IMG_5929.jpg" alt="beach"></div>
 
@@ -181,7 +197,7 @@
                         <li>Medial Luna confirms availability via email.</li>
                         <li>Guests email or fax in the <a href="/form/playa.pdf">cc authorization form</a> and a copy of their passport or driver's license.</li>
                         <li>Media Luna charges their credit card for one night's stay as a deposit at this time. Media Luna then emails the guest a written confirmation of reservation.</li>
-                        <li>On arrival, guests pay for the remainder of their stay minus the one night's deposit that was charged when they made the reservation. Guests can pay in US Dollars or American Express traveler's checks without any additional fee. If you pay in Pesos it will be at the hotel's exchange rate. If you pay by Credit Card, a 10% service fee will be added. We recommend you pay in US Dollars or Traveler’s checks.</li>
+                        <li>On arrival, guests pay for the remainder of their stay minus the one night's deposit that was charged when they made the reservation. Guests can pay in US Dollars or American Express traveler's checks without any additional fee. If you pay in Pesos it will be at the hotel's exchange rate. If you pay by Credit Card, a 10% service fee will be added. We recommend you pay in US Dollars or Traveler's checks.</li>
                     </ol>
 
                     <h4>Cancellation Policy</h4>

@@ -86,9 +86,10 @@
                 </div>
 
                 <ul style="list-style-type: none">
-                    <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="/rsvp/">RSVP</a></li>
+                    <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="/rsvp/">RSVP for wedding, welcome drinks, and golf cart scavenger hunt</a> <p>March 25, 2015: deadline to RSVP</p></li>
                     <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="http://travel.state.gov/content/passports/english/passports/apply.html">Get your passport</a></li>
-                    <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="/weddingweekend/#accommodations">Reserve a room</a></li>
+                    <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="/weddingweekend/#accommodations">Reserve a room</a> <p>February 22, 2015: deadline to book Hotel Playa Media Luna
+</p></li>
                     <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="https://www.hipmunk.com/flights/to-Cancun-Mexico">Find a flight</a></li>
                 </ul>
 
