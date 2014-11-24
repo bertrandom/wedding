@@ -106,7 +106,9 @@
 
                     <p>Meeting location: <a href="http://www.islamujerestrips.com/location/">Isla Mujeres Trips</a></p>
 
-                    <p>Join us on our first underwater adventure as newlyweds with a mid-day snorkeling trip to El Farito lighthouse reef and MUSA underwater museum, followed by a late lunch on the beach. Bring your own drinks for the boat ride (water is encouraged). This trip costs $32/ per person and requires at $12 deposit to reserve your spot. The balance of $20 can be paid the day of in US dollars (recommended), pesos or by credit card (with a fee) at their office at 11am on the day of the trip. Read more about this trip here.</p>
+                    <div style="margin-bottom: 15px;"><img class="img-rounded img-responsive" src="/images/snorkeling.jpg" alt="snorkeling"></div>
+
+                    <p>Join us on our first underwater adventure as newlyweds with a mid-day snorkeling trip to <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.tripadvisor.com%2FAttraction_Review-g150810-d1907252-Reviews-El_Farito-Isla_Mujeres_Yucatan_Peninsula.html&sa=D&sntz=1&usg=AFQjCNEMFM2h5JgM9g6Vf4yP8CtaCdZs5g">El Farito lighthouse reef</a> and <a href="http://www.google.com/url?q=http%3A%2F%2Fmusacancun.org%2Fenglish%2F&sa=D&sntz=1&usg=AFQjCNFWqD7ijg9QBYK7jnqE4IcYtbKtIA">MUSA underwater museum</a>, followed by a late lunch on the beach. Bring your own drinks for the boat ride (water is encouraged). This trip costs $32/ per person and requires at $12 deposit to reserve your spot. The balance of $20 can be paid the day of in US dollars (recommended), pesos or by credit card (with a fee) at their office at 11am on the day of the trip. <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.islamujerestrips.com%2Ftours%2Fisland-tours%2Fsnorkel%2F&sa=D&sntz=1&usg=AFQjCNHNlEpHdulwZM-OUTky_oXJcBJF9Q">Read more about this trip here</a>.</p>
 
                     <p>Bring</p>
                     <ul>
