@@ -91,6 +91,7 @@
                     <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="/weddingweekend/#accommodations">Reserve a room</a> <p>February 22, 2015: deadline to book Hotel Playa Media Luna
 </p></li>
                     <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="https://www.hipmunk.com/flights/to-Cancun-Mexico">Find a flight</a></li>
+                    <li><span class="glyphicon glyphicon-ok-circle"></span> <a href="http://www.cancunandrivieramaya.com/sunhorse/iris-bert.asp">Book transfer from Cancun airport to ferry</a></li>
                 </ul>
 
             </div>
