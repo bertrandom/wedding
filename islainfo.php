@@ -78,6 +78,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>Map</h2>
+                <a name="map"></a>
                 <iframe src="https://mapsengine.google.com/map/embed?mid=zUqIbMrIke6M.k3wojVOaPo_o" width="100%" height="480"></iframe>
             </div>
         </div>

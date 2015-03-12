@@ -179,53 +179,20 @@
 
                 <div style="margin-bottom: 60px;">
 
-                    <h3 style="font-weight: 600"><a href="http://www.playamedialuna.com/">Hotel Playa Media Luna</a></h3>
+                    <p>Playa Media Luna is fully booked, but there are many other great hotels downtown within walking distance. Check out our <a href="/islainfo/#map">map</a> to see their locations. Once you book a hotel, shoot us an <a href="mailto:iriswillow@gmail.com">email</a> to let us know where you’re staying on the island.
 
-                    <h4>Must be booked by February 22, 2015!</h4>
+                    <h3>Other Options (in order of proximity to Hotel Playa Media Luna):</h3>
 
-                    <p>All 20 rooms of this intimate Mexican beach hotel have been reserved for our wedding guests to book for 3 nights (May 23, 24 & 25) as part of the Bert / Iris Group.  Additional nights may be booked as available.  This hotel is located on a gorgeous rocky half moon beach with a lovely pool overlooking the beach. It feels secluded, yet is just a short walk from the heart of town and North Beach, Isla Mujeres' most beautiful beach. All the rooms have a/c, safety deposit boxes, mini fridges and ocean-view terraces - the perfect spot to catch the sunrise. The rooms aren't super fancy, but they all have ocean views which really make this hotel special.</p>
+                    <p><a href="http://www.hotelsecreto.com/">El Secreto</a> is an upscale hotel located next door to Hotel Playa Media Luna. Contact hotel directly for pricing and availability.
+                    <p><a href="http://laspalmasonisla.com/">Hotel Las Palmas</a> a small, family run guest house 2.5 blocks from Playa Media Luna with great reviews on tripadvisor.
+                    <p><a href="http://www.ixchelbeachhotel.com/default-en.html">Ixchel Beach Hotel</a> was recommended by our wedding coordinator and is located right on Playa Norte, with a pool and 4 blocks from Playa Media Luna.
+                    <p><a href="http://nautibeach.com/">Nautibeach Condos</a> Studios, one and two bedroom condos located on Playa Norte with a pool and good reviews on tripadvisor, 5 blocks from Playa Media Luna.
 
-                    <div style="margin-bottom: 15px;"><img class="img-rounded img-responsive" src="/images/IMG_5929.jpg" alt="beach"></div>
+                    <p><a href="http://www.rocamar-hotel.com/rocamar_hotel_isla_mujeres_mexico_caribbean_hotel.php?lan=8&sec=9">Rocomar</a> A simple, modern hotel with budget friendly town view rooms as well as ocean view rooms. 7 blocks from Hotel Playa Media Luna. 
 
-                    <h4>Room Options <small>(three night minimum stay, prices include all taxes and basic breakfast, based on double occupancy, <strong>$15</strong>/extra person per room, one child under 5 allowed in all rooms except jacuzzi kings)</small></h4>
+                    <p><a href="http://www.casasirenamexico.com/">Casa Sirena</a> a lovely botique bed and breakfast was fantastic reviews on trip advisor, 9 blocks from Hotel Playa Media Luna. 3 night minimum stay.
 
-                    <ul>
-                        <li>(9) <strong>Standard Double Room</strong> - <strong>$105</strong>/night w/two dbl beds</li>
-                        <li>(5) <strong>King Room</strong> - <strong>$115</strong>/night w/one king size bed</li>
-                        <li>(4) <strong>Jacuzzi King</strong>  - <strong>$155</strong>/night w/one king size bed, welcome basket, large terrace with balcony with outdoor bathtub. No children younger than 16 allowed.</li>
-                        <li>(2) <strong>Bungalows</strong>  - <strong>$165</strong>/night Separate unit that includes, one bedroom w/ one king and one double bed, living room and fully equipped kitchenette. Triple occupancy.</li>
-                    </ul>
-
-<!--                     <img class="img-thumbnail img-responsive" src="/images/Lote9_Medialuna.JPG">
- -->
-                    <h4>Reservation process</h4>
-
-                    <p>Rooms must be booked by <strong>February 22, 2015</strong>, at the very latest, but since there are only 20 rooms total, we recommend booking earlier to be sure you get a room.
-
-                    <ol>
-                        <li>Guests email <a href="mailto:reserv@playamedialuna.com">reserv@playamedialuna.com</a> the guest names, check in and check out dates and room type desired and mention that you are part of the Bert / Iris Group.</li>
-                        <li>Medial Luna confirms availability via email.</li>
-                        <li>Guests email or fax in the <a href="/form/playa.pdf">cc authorization form</a> and a copy of their passport or driver's license.</li>
-                        <li>Media Luna charges their credit card for one night's stay as a deposit at this time. Media Luna then emails the guest a written confirmation of reservation.</li>
-                        <li>On arrival, guests pay for the remainder of their stay minus the one night's deposit that was charged when they made the reservation. Guests can pay in US Dollars or American Express traveler's checks without any additional fee. If you pay in Pesos it will be at the hotel's exchange rate. If you pay by Credit Card, a 10% service fee will be added. We recommend you pay in US Dollars or Traveler's checks.</li>
-                    </ol>
-
-                    <h4>Cancellation Policy</h4>
-                    <ul>
-                        <li>Up to 90 days before your booked arrival: you may cancel by email for a full refund or modify your reservation.</li>
-                        <li>Less than 90 days before your booked arrival: no changes or cancellations can be made. If you have to cancel, you will be charged for two nights of your stay.</li>
-                    </ul>
-
-                    <h3 style="font-weight: 600">Looking for something a little fancier?</h3>
-
-                    <p>Check out <a href="http://www.hotelsecreto.com/">El Secreto</a>, an upscale hotel next door to Hotel Playa Media Luna. Contact hotel directly for pricing and availability.</p>
-
-                    <h3 style="font-weight: 600">Looking for a more budget friendly option?</h3>
-
-                    <p><strong><a href="http://www.rocamar-hotel.com/rocamar_hotel_isla_mujeres_mexico_caribbean_hotel.php?lan=8&sec=9">Rocomar</a></strong> A simple, modern hotel with budget friendly town view rooms as well as ocean view rooms. 7-8 blocks from Hotel Playa Media Luna. Contact hotel directly for pricing.</p>
-
-                    <p>You can also check on <a href="http://booking.com">Booking.com</a>, <a href="http://hotels.com">Hotels.com</a>, <a href="http://www.tripadvisor.com">tripadvisor</a> for other accomodations or look into renting a house on the island on <a href="http://vrbo.com">VRBO</a>.
-
+                    <p>These are just a few of the many downtown accommodation options. You can also stay on other parts of the island - south side is beautiful - however you will need to take taxis or rent a golf cart to get to the wedding festivities if you stay outside downtown. You can also check on <a href="http://booking.com">Booking.com</a>, <a href="http://hotels.com">Hotels.com</a>, <a href="http://www.tripadvisor.com">tripadvisor</a> for other accomodations or look into renting a house on the island on <a href="http://vrbo.com">VRBO</a>.
 
                 </div>
 
