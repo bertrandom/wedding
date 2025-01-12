@@ -11,8 +11,8 @@
     <link href="/css/wedding.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+<link rel="stylesheet" href="/css/leaflet.css" />
+<script src="/js/leaflet.js"></script>
 
     <script type="text/javascript" src="//use.typekit.net/wqx7pew.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -74,7 +74,7 @@
     <div class="container welcome">
         <div class="row">
             <div class="col-md-4">
-                <a href="https://www.flickr.com/photos/bertrandom/12710458654" title="Untitled by Bertrand Fan, on Flickr"><img class="img-thumbnail img-responsive" src="http://farm8.staticflickr.com/7402/12710458654_b625d4d1a9_d.jpg" alt="Untitled"></a>
+                <a href="https://www.flickr.com/photos/bertrandom/12710458654" title="Untitled by Bertrand Fan, on Flickr"><img class="img-thumbnail img-responsive" src="https://farm8.staticflickr.com/7402/12710458654_b625d4d1a9_d.jpg" alt="Untitled"></a>
             </div>
             <div class="col-md-8">
                 <div class="page-header">
@@ -117,8 +117,8 @@
 
     <script>
 
-        var map = new L.Map('map', {subdomains: 'abcd', scrollWheelZoom: false, minZoom: 3, maxZoom: 9, dragging: true}).setView([21.22019978931047,-86.73070773482323], 5);
-        map.addLayer(new L.TileLayer('https://{s}.tiles.bertyiris.com/DEST/{z}/{x}/{y}.png'));
+        var map = new L.Map('map', {scrollWheelZoom: false, minZoom: 3, maxZoom: 9, dragging: true}).setView([21.22019978931047,-86.73070773482323], 5);
+        map.addLayer(new L.TileLayer('https://tiles.bertyiris.com/DEST/{z}/{x}/{y}.png'));
 
         var icon = L.icon({
             iconUrl: 'images/marker.png',
